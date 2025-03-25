@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import AOS from "aos";
 import { useEffect } from "react";
 import "aos/dist/aos.css"; // AOS CSS import for animation
-import logo from "/home/raju/Downloads/gloom/gloomDev8/gloomdevClient/src/assets/images/logo.png";
+import logo from '../assets/images/logo.png';
 
 // Hero Section Component
 export default function HeroSection() {

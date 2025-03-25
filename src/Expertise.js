@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaCloud, FaRobot, FaLock, FaDatabase } from "react-icons/fa";
-import logo from "/home/raju/Downloads/gloom/gloomDev8/gloomdevClient/src/assets/images/logo.png";
+import logo from '../src/assets/images/logo.png';
 
 // Service Card Component
 const ServiceCard = ({ title, description, icon }) => {

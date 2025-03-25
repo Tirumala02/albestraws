@@ -15,7 +15,7 @@ import {
   FaChartLine,
   FaCloud,
 } from "react-icons/fa";
-import logo from "/home/raju/Downloads/gloom/gloomDev8/gloomdevClient/src/assets/images/logo.png";
+import logo from '../assets/images/logo.png';
 
 // Services Data
 const services = [
